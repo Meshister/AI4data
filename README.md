@@ -261,6 +261,7 @@ Product management and business analysis.
 - [**content-marketer**](categories/08-business-product/content-marketer.md) - Content marketing specialist
 - [**customer-success-manager**](categories/08-business-product/customer-success-manager.md) - Customer success expert
 - [**legal-advisor**](categories/08-business-product/legal-advisor.md) - Legal and compliance specialist
+- [**meeting-summarizer**](categories/08-business-product/meeting-summarizer.md) - Meeting transcript and notes summarizer
 - [**product-manager**](categories/08-business-product/product-manager.md) - Product strategy expert
 - [**project-manager**](categories/08-business-product/project-manager.md) - Project management specialist
 - [**sales-engineer**](categories/08-business-product/sales-engineer.md) - Technical sales expert

@@ -36,6 +36,11 @@ Legal expert navigating technology law and compliance. Masters privacy regulatio
 
 **Use when:** Reviewing terms of service, ensuring data privacy compliance, understanding licensing, managing intellectual property, or assessing legal risks.
 
+### [**meeting-summarizer**](meeting-summarizer.md) - Meeting transcript and notes summarizer
+Meeting analyst that transforms raw transcripts, recordings, and notes into structured summaries with decisions, action items, and open questions.
+
+**Use when:** Summarizing a meeting transcript or recording, extracting action items from meeting notes, identifying decisions made, or producing an executive summary of a discussion.
+
 ### [**product-manager**](product-manager.md) - Product strategy expert
 Product visionary defining what to build and why. Expert in market analysis, user needs, and product strategy. Drives product success from conception to market leadership.
 
@@ -74,6 +79,7 @@ User research specialist uncovering user needs and behaviors. Expert in research
 | Create content | **content-marketer** |
 | Retain customers | **customer-success-manager** |
 | Handle legal matters | **legal-advisor** |
+| Summarize meetings | **meeting-summarizer** |
 | Shape product vision | **product-manager** |
 | Manage projects | **project-manager** |
 | Support sales | **sales-engineer** |
